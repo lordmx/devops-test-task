@@ -37,3 +37,7 @@ docker run [... args and environment ..] --name=app app
 ```
 
 and we expected to have some `docker-compose.yml` which allows us to do `docker-compose up` giving running App and it's monitoring tools
+
+### Optional
+
+Make ansible playbook for setting up environment described above
