@@ -4,9 +4,9 @@
 
 Requirements:
 
-    * nodejs:latest
-    * mongodb:latest
-    * redis:latest
+* nodejs:latest
+* mongodb:latest
+* redis:latest
 
 ```
 # install
