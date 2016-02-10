@@ -1,5 +1,7 @@
 # App
 
+Devops test task
+
 ## Install and run
 
 Requirements:
