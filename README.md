@@ -25,6 +25,8 @@ APP_MONGO_URI=mongodb://docker.local:27117/app \
 1. Make Dockerfile for App
 2. Make docker-compose.yml to set up whole environment (app, redis, mongo) + monitoring (influxdb + grafana + cadvisor)
 
+You allowed to use redis, mongo, influxdb, grafana, cadvisor etc. images from [docker hub](https://hub.docker.com)
+
 So, as result we expected to have Dockerfile, so it'll be possible to execute
 
 ```
