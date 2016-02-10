@@ -22,8 +22,8 @@ APP_MONGO_URI=mongodb://docker.local:27117/app \
 
 ## Devops Task
 
-1) Make Dockerfile for App
-2) Make docker-compose.yml to set up whole environment (app, redis, mongo) + monitoring (influxdb + grafana + cadvisor)
+1. Make Dockerfile for App
+2. Make docker-compose.yml to set up whole environment (app, redis, mongo) + monitoring (influxdb + grafana + cadvisor)
 
 So, as result we expected to have Dockerfile, so it'll be possible to execute
 
